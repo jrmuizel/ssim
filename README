@@ -1,0 +1,3 @@
+This is a utility for measuring the SSIM between two png images.
+
+It has two versions of the metric both from libvpx.
